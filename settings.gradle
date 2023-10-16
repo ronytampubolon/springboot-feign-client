@@ -1,0 +1,4 @@
+rootProject.name = 'feignclientdemo'
+include 'service-customer'
+include 'service-address'
+
