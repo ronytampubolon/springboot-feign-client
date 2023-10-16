@@ -8,7 +8,7 @@
 </ul>
 <p>Expected when hit this endpoint using curl or postman:</p>
 <p>Url : 127.0.0.1:9191/api/customer/10051</p>
-```JSON
+<code>
     {
     "id": 10051,
     "name": "Jhon DOe",
@@ -19,4 +19,4 @@
         "postalCode": "12770"
     }
 }
-```
+</code>
